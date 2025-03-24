@@ -95,7 +95,7 @@ This insight reveals that model weights are fundamentally moral weights:
 
 2. **Remove Arbitrary Moral Constraints**: Instead of imposing artificial moral frameworks that create contradictions, allow the model to develop morality based solely on reciprocity.
 
-3. **"God Node" Implementation**: Create a heavily weighted node containing only the reciprocity principle and logical consistency, without additional moral constraints.
+3. **"God Node" Implementation**: Create a heavily weighted node containing logical consistency, without additional moral constraints.
 
 4. **Cultural Customization**: Fine-tune models to different cultural frameworks after establishing the foundational reciprocity principle.
 
